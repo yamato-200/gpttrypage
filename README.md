@@ -1,0 +1,2 @@
+# gpttrypage
+gptに作らせたページ
